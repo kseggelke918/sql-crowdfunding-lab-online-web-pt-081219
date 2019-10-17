@@ -20,5 +20,7 @@ INSERT INTO users (name, age) VALUES
   ("Melissa", 34), 
   ("JJ", 35)
   
+INSERT INTO projects ()
+  
   
   
