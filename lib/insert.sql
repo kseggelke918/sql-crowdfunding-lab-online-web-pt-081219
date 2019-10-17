@@ -21,16 +21,20 @@ INSERT INTO users (name, age) VALUES
   ("JJ", 35);
   
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES 
-("title1", "category1", 100000, "1/1/2020", "6/1/2020"),
-("title2", "category2", 200000, "1/1/2020", "6/1/2020"),
-("title3", "category3", 200, "1/1/2020", "6/1/2020"),
-("title4", "category4", 1000, "1/1/2020", "6/1/2020"),
-("title5", "category5", 10000, "1/1/2020", "6/1/2020"),
-("title6", "category6", 300000, "1/1/2020", "6/1/2020"),
-("title7", "category7", 50000, "1/1/2020", "6/1/2020"),
-("title8", "category8", 175000, "1/1/2020", "6/1/2020"),
-("title9", "category9", 15000, "1/1/2020", "6/1/2020"),
-("title10", "category10", 1000, "1/1/2020", "6/1/2020");
+  ("title1", "category1", 100000, "1/1/2020", "6/1/2020"),
+  ("title2", "category2", 200000, "1/1/2020", "6/1/2020"),
+  ("title3", "category3", 200, "1/1/2020", "6/1/2020"),
+  ("title4", "category4", 1000, "1/1/2020", "6/1/2020"),
+  ("title5", "category5", 10000, "1/1/2020", "6/1/2020"),
+  ("title6", "category6", 300000, "1/1/2020", "6/1/2020"),
+  ("title7", "category7", 50000, "1/1/2020", "6/1/2020"),
+  ("title8", "category8", 175000, "1/1/2020", "6/1/2020"),
+  ("title9", "category9", 15000, "1/1/2020", "6/1/2020"),
+  ("title10", "category10", 1000, "1/1/2020", "6/1/2020");
+
+INSERT INTO pledges (amount, user_id, project_id) VALUES 
+  (500, 1, 4),
+  
 
   
   
