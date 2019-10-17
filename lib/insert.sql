@@ -22,6 +22,24 @@ INSERT INTO users (name, age) VALUES
   
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES 
 ("title1", "category1", 100000, "1/1/2020", "6/1/2020"),
+("title1", "category1", 100000, "1/1/2020", "6/1/2020"),
+("title1", "category1", 100000, "1/1/2020", "6/1/2020"),
+("title1", "category1", 100000, "1/1/2020", "6/1/2020"),
+("title1", "category1", 100000, "1/1/2020", "6/1/2020"),
+("title1", "category1", 100000, "1/1/2020", "6/1/2020"),
+("title1", "category1", 100000, "1/1/2020", "6/1/2020"),
+("title1", "category1", 100000, "1/1/2020", "6/1/2020"),
+("title1", "category1", 100000, "1/1/2020", "6/1/2020"),
+("title1", "category1", 100000, "1/1/2020", "6/1/2020"),
+("title1", "category1", 100000, "1/1/2020", "6/1/2020"),
+("title1", "category1", 100000, "1/1/2020", "6/1/2020"),
+("title1", "category1", 100000, "1/1/2020", "6/1/2020"),
+("title1", "category1", 100000, "1/1/2020", "6/1/2020"),
+("title1", "category1", 100000, "1/1/2020", "6/1/2020"),
+("title1", "category1", 100000, "1/1/2020", "6/1/2020"),
+("title1", "category1", 100000, "1/1/2020", "6/1/2020"),
+("title1", "category1", 100000, "1/1/2020", "6/1/2020"),
+
   
   
   
